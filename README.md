@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 Welcome to my repository! Here you will find some of the programs I have created in all of my programming years. 
 - 🔭 I’m currently working on my Senior Capstone Project at Oregon State University
 - 🌱 I’m currently learning Operating System and new languages
+- ⚡ Fun fact: I like to mountain bike 🚵, play video games 🎮, and watch movies 🎬. 
 - 📫 How to reach me: bertolus@oregonstate.edu
 
