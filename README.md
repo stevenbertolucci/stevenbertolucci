@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Welcome to my repository! Here you will find some of the programs I have created in all of my programming years. 
+- 🔭 I’m currently working on my Senior Capstone Project at Oregon State University
+- 🌱 I’m currently learning Operating System and new languages
+- 📫 How to reach me: bertolus@oregonstate.edu
+
